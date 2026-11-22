@@ -38,6 +38,8 @@ python dart_detect.py
 4. かたまりの重心からいちばん遠い点を先端とする
 5. クリックした点に合うだ円(`fitEllipse`)の中に先端があれば IN
 
+試したこと・ぶつかった問題・改善の流れは、画像付きで [docs/improvements.md](docs/improvements.md) にまとめています。
+
 ## ファイル
 
 | ファイル | 内容 |

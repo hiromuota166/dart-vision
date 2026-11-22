@@ -16,3 +16,8 @@ desktop.ini
 *.png
 *.jpg
 *.mp4
+# ただし、記録用に選んだ画像は入れる(部屋全体が映ったものは置かない)
+!docs/images/*.png
+
+# 自分のパソコン用の設定
+.claude/
